@@ -1,0 +1,112 @@
+                                                                                                                                                                                                                                                               
+Delivered-To: vanwinkle.justin@gmail.com
+Received: by 10.103.70.67 with SMTP id t64csp1366579vsa;
+        Fri, 18 Dec 2015 17:11:21 -0800 (PST)
+X-Received: by 10.182.61.66 with SMTP id n2mr2969721obr.11.1450487481346;
+        Fri, 18 Dec 2015 17:11:21 -0800 (PST)
+Return-Path: <justinvanwinkle@knights.ucf.edu>
+Received: from na01-by2-obe.outbound.protection.outlook.com (mail-by2on0056.outbound.protection.outlook.com. [207.46.100.56])
+        by mx.google.com with ESMTPS id j205si13056202oia.15.2015.12.18.17.11.20
+        for <vanwinkle.justin@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-SHA bits=128/128);
+        Fri, 18 Dec 2015 17:11:21 -0800 (PST)
+Received-SPF: pass (google.com: domain of justinvanwinkle@knights.ucf.edu designates 207.46.100.56 as permitted sender) client-ip=207.46.100.56;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of justinvanwinkle@knights.ucf.edu designates 207.46.100.56 as permitted sender) smtp.mailfrom=justinvanwinkle@knights.ucf.edu
+Received: from BN1PR07MB439.namprd07.prod.outlook.com (10.141.63.19) by
+ BN1PR07MB439.namprd07.prod.outlook.com (10.141.63.19) with Microsoft SMTP
+ Server (TLS) id 15.1.355.16; Sat, 19 Dec 2015 01:11:19 +0000
+Received: from BN1PR07MB439.namprd07.prod.outlook.com ([169.254.3.127]) by
+ BN1PR07MB439.namprd07.prod.outlook.com ([169.254.3.127]) with mapi id
+ 15.01.0355.012; Sat, 19 Dec 2015 01:11:19 +0000
+From: Justin Vanwinkle <justinvanwinkle@knights.ucf.edu>
+To: Justin VanWinkle <vanwinkle.justin@gmail.com>
+Subject: Subject Line.
+Thread-Topic: Subject Line.
+Thread-Index: AQHROfoqSr9FDPtvEk+eb2peRO79gQ==
+Date: Sat, 19 Dec 2015 01:11:18 +0000
+Message-ID: <BN1PR07MB4398970995959805C56A467EEE20@BN1PR07MB439.namprd07.prod.outlook.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: spf=none (sender IP is )
+ smtp.mailfrom=justinvanwinkle@knights.ucf.edu; 
+x-originating-ip: [132.245.71.21]
+x-microsoft-exchange-diagnostics: 1;BN1PR07MB439;5:1IT8NHc632+qGk3B2MmE7HK8K2hQMnOEy9t1fW0U3jstZydVJSyXiRXSApIzbCa8dKeILbtISYlcFPE7Ta6R1ZdXldbaxOrBukmcHDYkZ89S4h+g3+pj3M7Azapva1CmPAEoQuf2iOQBTZCKH03jSw==;24:FCOAaopaSt6gGf/D21pVNiA/HvdsACdMG5ivdv0BY51IP+VGEprWZo1g4f7ua8xflxduaEHY+0Hw0Pc3Gvm1N/DL1W97eMGPiQzu9HqaKUs=
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:;SRVR:BN1PR07MB439;
+x-microsoft-antispam-prvs: <BN1PR07MB43930E7DAAE6C0C006692B3EEE20@BN1PR07MB439.namprd07.prod.outlook.com>
+x-exchange-antispam-report-test: UriScan:;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(601004)(2401047)(5005006)(520078)(8121501046)(10201501046)(3002001);SRVR:BN1PR07MB439;BCL:0;PCL:0;RULEID:;SRVR:BN1PR07MB439;
+x-forefront-prvs: 07954CC105
+x-forefront-antispam-report: SFV:NSPM;SFS:(10009020)(199003)(189002)(97736004)(86362001)(3846002)(558084003)(87936001)(40100003)(99286002)(105586002)(229853001)(106116001)(106356001)(89122001)(11100500001)(587094005)(586003)(450100001)(33656002)(19617315012)(122556002)(75432002)(88552001)(5008740100001)(50986999)(81156007)(189998001)(74316001)(102836003)(6116002)(101416001)(5001960100002)(1096002)(16601075003)(16236675004)(19627405001)(19625215002)(110136002)(5003600100002)(54356999)(5002640100001)(15975445007)(107886002)(10400500002)(19580395003)(76576001)(92566002)(2900100001)(1220700001)(5004730100002)(66066001)(569964004);DIR:OUT;SFP:1101;SCL:1;SRVR:BN1PR07MB439;H:BN1PR07MB439.namprd07.prod.outlook.com;FPR:;SPF:None;PTR:InfoNoRecords;A:0;MX:1;LANG:en;
+received-spf: None (protection.outlook.com: knights.ucf.edu does not designate
+ permitted sender hosts)
+spamdiagnosticoutput: 1:23
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_BN1PR07MB4398970995959805C56A467EEE20BN1PR07MB439namprd_"
+MIME-Version: 1.0
+X-OriginatorOrg: knights.ucf.edu
+X-MS-Exchange-CrossTenant-originalarrivaltime: 19 Dec 2015 01:11:18.7653
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 5b16e182-78b3-412c-9196-68342689eeb7
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BN1PR07MB439
+
+--_000_BN1PR07MB4398970995959805C56A467EEE20BN1PR07MB439namprd_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Body.
+
+
+Justin VanWinkle
+Computer Engineer
+University of Central Florida
+<http://justin-vanwinkle.com/>http://justin-vanwinkle.github.io
+(321) 765-9267
+
+--_000_BN1PR07MB4398970995959805C56A467EEE20BN1PR07MB439namprd_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" style=3D"display:none;"><!-- P {margin-top:0;margi=
+n-bottom:0;} --></style>
+</head>
+<body dir=3D"ltr">
+<div id=3D"divtagdefaultwrapper" style=3D"font-size:12pt;color:#000000;back=
+ground-color:#FFFFFF;font-family:Calibri,Arial,Helvetica,sans-serif;">
+<p>Body.</p>
+<p><br>
+</p>
+<div id=3D"Signature">
+<div id=3D"divtagdefaultwrapper" style=3D"font-size:12pt; color:#000000; ba=
+ckground-color:#FFFFFF; font-family:Calibri,Arial,Helvetica,sans-serif">
+<div name=3D"divtagdefaultwrapper" style=3D"font-family:Calibri,Arial,Helve=
+tica,sans-serif; font-size:; margin:0">
+Justin VanWinkle</div>
+<div name=3D"divtagdefaultwrapper" style=3D"font-family:Calibri,Arial,Helve=
+tica,sans-serif; font-size:; margin:0">
+<span style=3D"font-size:12pt">Computer Engineer</span>
+<div>University of Central Florida<br>
+</div>
+<div><a href=3D"http://justin-vanwinkle.com/" title=3D"http://justin-vanwin=
+kle.com/ Ctrl&#43;Click or tap to follow the link" tabindex=3D"-1" disabled=
+=3D"true" id=3D"LPNoLP"></a><a href=3D"http://justin-vanwinkle.github.io" i=
+d=3D"LPNoLP">http://justin-vanwinkle.github.io</a><br>
+</div>
+<div><span id=3D"gc-number-2" class=3D"gc-cs-link" title=3D"Call with Googl=
+e Voice">(321) 765-9267</span></div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
+
+--_000_BN1PR07MB4398970995959805C56A467EEE20BN1PR07MB439namprd_--

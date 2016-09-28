@@ -1,0 +1,277 @@
+                                                                                                                                                                                                                                                               
+Delivered-To: vanwinkle.justin@gmail.com
+Received: by 10.103.70.67 with SMTP id t64csp2156969vsa;
+        Sun, 20 Dec 2015 08:05:30 -0800 (PST)
+X-Received: by 10.98.17.3 with SMTP id z3mr1724601pfi.166.1450627530583;
+        Sun, 20 Dec 2015 08:05:30 -0800 (PST)
+Return-Path: <justinvanwinkle@knights.ucf.edu>
+Received: from na01-bn1-obe.outbound.protection.outlook.com (mail-bn1on0065.outbound.protection.outlook.com. [157.56.110.65])
+        by mx.google.com with ESMTPS id ul5si9398417pab.201.2015.12.20.08.05.30
+        for <vanwinkle.justin@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-SHA bits=128/128);
+        Sun, 20 Dec 2015 08:05:30 -0800 (PST)
+Received-SPF: pass (google.com: domain of justinvanwinkle@knights.ucf.edu designates 157.56.110.65 as permitted sender) client-ip=157.56.110.65;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of justinvanwinkle@knights.ucf.edu designates 157.56.110.65 as permitted sender) smtp.mailfrom=justinvanwinkle@knights.ucf.edu
+Received: from BN1PR07MB439.namprd07.prod.outlook.com (10.141.63.19) by
+ BN1PR07MB437.namprd07.prod.outlook.com (10.141.63.11) with Microsoft SMTP
+ Server (TLS) id 15.1.355.16; Sun, 20 Dec 2015 16:05:28 +0000
+Received: from BN1PR07MB439.namprd07.prod.outlook.com ([169.254.3.127]) by
+ BN1PR07MB439.namprd07.prod.outlook.com ([169.254.3.127]) with mapi id
+ 15.01.0355.012; Sun, 20 Dec 2015 16:05:28 +0000
+From: Justin Vanwinkle <justinvanwinkle@knights.ucf.edu>
+To: Justin VanWinkle <vanwinkle.justin@gmail.com>
+Subject: Re: Subject Line.
+Thread-Topic: Subject Line.
+Thread-Index: AQHROfoqSr9FDPtvEk+eb2peRO79gZ7UCDmAgAAAC4OAAAQxAIAAAA2W
+Date: Sun, 20 Dec 2015 16:05:28 +0000
+Message-ID: <BN1PR07MB4393587087FBD91CCF0F327EEE30@BN1PR07MB439.namprd07.prod.outlook.com>
+References: <BN1PR07MB4398970995959805C56A467EEE20@BN1PR07MB439.namprd07.prod.outlook.com>
+	<CAFeaPCBJeMgHpQKCrnoY_ebXKPVy0LCa81Qf741xysowU3DH7g@mail.gmail.com>
+	<BN1PR07MB439F9CFAA3D4556AB6B17E0EEE30@BN1PR07MB439.namprd07.prod.outlook.com>,<CAFeaPCCpcenBNrj4zgXD-khx_+4H9X_z-ibeskSSUauNUOt3-Q@mail.gmail.com>
+In-Reply-To: <CAFeaPCCpcenBNrj4zgXD-khx_+4H9X_z-ibeskSSUauNUOt3-Q@mail.gmail.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: spf=none (sender IP is )
+ smtp.mailfrom=justinvanwinkle@knights.ucf.edu; 
+x-originating-ip: [132.245.71.21]
+x-microsoft-exchange-diagnostics: 1;BN1PR07MB437;5:Quwi068TyfA1DeworYqgA74LdeCNsRUPzrIhcmad6Ir2MSo9qAVUtyB2zexPwpv+8woMdXTlsqOZN9Is5AQuom6LVYigHUQ7X31uXAff530wFo1CRwrJ7upgPgtpzqwx+oL816I3UOpzhx526nHXqQ==;24:SYD7j99v7DrIzueKgu4Dg7+SvfZiUx+THwqdujHp9KzVSogLPd0s4B3ir/7qpnTJw6FEEvO5HD8YwXEdJtBB8dZrCafu4lUW/rQi33xyWZo=
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:;SRVR:BN1PR07MB437;
+x-microsoft-antispam-prvs: <BN1PR07MB43776D8232957FEB8A55FB7EEE30@BN1PR07MB437.namprd07.prod.outlook.com>
+x-exchange-antispam-report-test: UriScan:(123341235496392);
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(601004)(2401047)(520078)(5005006)(8121501046)(3002001)(10201501046);SRVR:BN1PR07MB437;BCL:0;PCL:0;RULEID:;SRVR:BN1PR07MB437;
+x-forefront-prvs: 0796EBEDE1
+x-forefront-antispam-report: SFV:NSPM;SFS:(10009020)(24454002)(377454003)(189002)(199003)(74316001)(189998001)(5001960100002)(19617315012)(105586002)(5008740100001)(66066001)(33656002)(92566002)(75432002)(19625215002)(76576001)(16236675004)(587094005)(89122001)(102836003)(6116002)(88552001)(3846002)(10400500002)(1096002)(101416001)(1220700001)(586003)(11100500001)(110136002)(97736004)(16601075003)(122556002)(93886004)(5003600100002)(107886002)(81156007)(99286002)(87936001)(5002640100001)(50986999)(86362001)(106116001)(106356001)(19580405001)(19580395003)(40100003)(15975445007)(2900100001)(76176999)(450100001)(5004730100002)(54356999)(2950100001)(19627405001);DIR:OUT;SFP:1101;SCL:1;SRVR:BN1PR07MB437;H:BN1PR07MB439.namprd07.prod.outlook.com;FPR:;SPF:None;PTR:InfoNoRecords;MX:1;A:0;LANG:en;
+received-spf: None (protection.outlook.com: knights.ucf.edu does not designate
+ permitted sender hosts)
+spamdiagnosticoutput: 1:23
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_BN1PR07MB4393587087FBD91CCF0F327EEE30BN1PR07MB439namprd_"
+MIME-Version: 1.0
+X-OriginatorOrg: knights.ucf.edu
+X-MS-Exchange-CrossTenant-originalarrivaltime: 20 Dec 2015 16:05:28.5513
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 5b16e182-78b3-412c-9196-68342689eeb7
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BN1PR07MB437
+
+--_000_BN1PR07MB4393587087FBD91CCF0F327EEE30BN1PR07MB439namprd_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+response 4
+
+
+Justin VanWinkle
+Computer Engineer
+University of Central Florida
+<http://justin-vanwinkle.com/>http://justin-vanwinkle.github.io
+(321) 765-9267
+
+
+________________________________
+From: Justin VanWinkle <vanwinkle.justin@gmail.com>
+Sent: Sunday, December 20, 2015 11:05 AM
+To: Justin Vanwinkle
+Subject: Re: Subject Line.
+
+response 3
+
+On Sun, Dec 20, 2015 at 10:50 AM, Justin Vanwinkle <justinvanwinkle@knights=
+.ucf.edu<mailto:justinvanwinkle@knights.ucf.edu>> wrote:
+
+Response 2
+
+
+Justin VanWinkle
+Computer Engineer
+University of Central Florida
+<http://justin-vanwinkle.com/>http://justin-vanwinkle.github.io
+(321) 765-9267<tel:%28321%29%20765-9267>
+
+
+________________________________
+From: Justin VanWinkle <vanwinkle.justin@gmail.com<mailto:vanwinkle.justin@=
+gmail.com>>
+Sent: Sunday, December 20, 2015 10:50 AM
+To: Justin Vanwinkle
+Subject: Re: Subject Line.
+
+Response
+
+On Fri, Dec 18, 2015 at 8:11 PM, Justin Vanwinkle <justinvanwinkle@knights.=
+ucf.edu<mailto:justinvanwinkle@knights.ucf.edu>> wrote:
+
+Body.
+
+
+Justin VanWinkle
+Computer Engineer
+University of Central Florida
+<http://justin-vanwinkle.com/>http://justin-vanwinkle.github.io
+(321) 765-9267<tel:%28321%29%20765-9267>
+
+
+
+--_000_BN1PR07MB4393587087FBD91CCF0F327EEE30BN1PR07MB439namprd_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" style=3D"display:none;"><!-- P {margin-top:0;margi=
+n-bottom:0;} --></style>
+</head>
+<body dir=3D"ltr">
+<div id=3D"divtagdefaultwrapper" style=3D"font-size:12pt;color:#000000;back=
+ground-color:#FFFFFF;font-family:Calibri,Arial,Helvetica,sans-serif;">
+<p>response 4</p>
+<p><br>
+</p>
+<div id=3D"Signature">
+<div id=3D"divtagdefaultwrapper" style=3D"font-size:12pt; color:#000000; ba=
+ckground-color:#FFFFFF; font-family:Calibri,Arial,Helvetica,sans-serif">
+<div name=3D"divtagdefaultwrapper" style=3D"font-family:Calibri,Arial,Helve=
+tica,sans-serif; font-size:; margin:0">
+Justin VanWinkle</div>
+<div name=3D"divtagdefaultwrapper" style=3D"font-family:Calibri,Arial,Helve=
+tica,sans-serif; font-size:; margin:0">
+<span style=3D"font-size:12pt">Computer Engineer</span>
+<div>University of Central Florida<br>
+</div>
+<div><a href=3D"http://justin-vanwinkle.com/" title=3D"http://justin-vanwin=
+kle.com/ Ctrl&#43;Click or tap to follow the link" tabindex=3D"-1" disabled=
+=3D"true" id=3D"LPNoLP"></a><a href=3D"http://justin-vanwinkle.github.io" i=
+d=3D"LPNoLP">http://justin-vanwinkle.github.io</a><br>
+</div>
+<div><span id=3D"gc-number-14" class=3D"gc-cs-link" title=3D"Call with Goog=
+le Voice">(321) 765-9267</span></div>
+</div>
+</div>
+</div>
+<br>
+<br>
+<div style=3D"color: rgb(0, 0, 0);">
+<hr tabindex=3D"-1" style=3D"display:inline-block; width:98%">
+<div id=3D"divRplyFwdMsg" dir=3D"ltr"><font face=3D"Calibri, sans-serif" co=
+lor=3D"#000000" style=3D"font-size:11pt"><b>From:</b> Justin VanWinkle &lt;=
+vanwinkle.justin@gmail.com&gt;<br>
+<b>Sent:</b> Sunday, December 20, 2015 11:05 AM<br>
+<b>To:</b> Justin Vanwinkle<br>
+<b>Subject:</b> Re: Subject Line.</font>
+<div>&nbsp;</div>
+</div>
+<div>
+<div dir=3D"ltr">response 3</div>
+<div class=3D"gmail_extra"><br>
+<div class=3D"gmail_quote">On Sun, Dec 20, 2015 at 10:50 AM, Justin Vanwink=
+le <span dir=3D"ltr">
+&lt;<a href=3D"mailto:justinvanwinkle@knights.ucf.edu" target=3D"_blank">ju=
+stinvanwinkle@knights.ucf.edu</a>&gt;</span> wrote:<br>
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex; border-left:1=
+px #ccc solid; padding-left:1ex">
+<div dir=3D"ltr">
+<div style=3D"font-size:12pt; color:#000000; background-color:#ffffff; font=
+-family:Calibri,Arial,Helvetica,sans-serif">
+<p>Response 2</p>
+<span class=3D"">
+<p><br>
+</p>
+<div>
+<div style=3D"font-size:12pt; color:#000000; background-color:#ffffff; font=
+-family:Calibri,Arial,Helvetica,sans-serif">
+<div name=3D"divtagdefaultwrapper">Justin VanWinkle</div>
+<div name=3D"divtagdefaultwrapper"><span style=3D"font-size:12pt">Computer =
+Engineer</span>
+<div>University of Central Florida<br>
+</div>
+<div><a href=3D"http://justin-vanwinkle.com/" title=3D"http://justin-vanwin=
+kle.com/ Ctrl&#43;Click or tap to follow the link" disabled=3D"" target=3D"=
+_blank"></a><a href=3D"http://justin-vanwinkle.github.io" target=3D"_blank"=
+>http://justin-vanwinkle.github.io</a><br>
+</div>
+<div><span title=3D"Call with Google Voice"><a href=3D"tel:%28321%29%20765-=
+9267" value=3D"&#43;13217659267" target=3D"_blank">(321) 765-9267</a></span=
+></div>
+</div>
+</div>
+</div>
+<br>
+<br>
+</span>
+<div style=3D"color:rgb(0,0,0)">
+<hr style=3D"display:inline-block; width:98%">
+<div dir=3D"ltr"><font face=3D"Calibri, sans-serif" color=3D"#000000" style=
+=3D"font-size:11pt"><b>From:</b> Justin VanWinkle &lt;<a href=3D"mailto:van=
+winkle.justin@gmail.com" target=3D"_blank">vanwinkle.justin@gmail.com</a>&g=
+t;<br>
+<b>Sent:</b> Sunday, December 20, 2015 10:50 AM<br>
+<b>To:</b> Justin Vanwinkle<br>
+<b>Subject:</b> Re: Subject Line.</font>
+<div>&nbsp;</div>
+</div>
+<div>
+<div class=3D"h5">
+<div>
+<div dir=3D"ltr">Response</div>
+<div class=3D"gmail_extra"><br>
+<div class=3D"gmail_quote">On Fri, Dec 18, 2015 at 8:11 PM, Justin Vanwinkl=
+e <span dir=3D"ltr">
+&lt;<a href=3D"mailto:justinvanwinkle@knights.ucf.edu" target=3D"_blank">ju=
+stinvanwinkle@knights.ucf.edu</a>&gt;</span> wrote:<br>
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex; border-left:1=
+px #ccc solid; padding-left:1ex">
+<div dir=3D"ltr">
+<div style=3D"font-size:12pt; color:#000000; background-color:#ffffff; font=
+-family:Calibri,Arial,Helvetica,sans-serif">
+<p>Body.</p>
+<span><font color=3D"#888888">
+<p><br>
+</p>
+<div>
+<div style=3D"font-size:12pt; color:#000000; background-color:#ffffff; font=
+-family:Calibri,Arial,Helvetica,sans-serif">
+<div name=3D"divtagdefaultwrapper">Justin VanWinkle</div>
+<div name=3D"divtagdefaultwrapper"><span style=3D"font-size:12pt">Computer =
+Engineer</span>
+<div>University of Central Florida<br>
+</div>
+<div><a href=3D"http://justin-vanwinkle.com/" title=3D"http://justin-vanwin=
+kle.com/ Ctrl&#43;Click or tap to follow the link" disabled=3D"" target=3D"=
+_blank"></a><a href=3D"http://justin-vanwinkle.github.io" target=3D"_blank"=
+>http://justin-vanwinkle.github.io</a><br>
+</div>
+<div><span title=3D"Call with Google Voice"><a href=3D"tel:%28321%29%20765-=
+9267" value=3D"&#43;13217659267" target=3D"_blank">(321) 765-9267</a></span=
+></div>
+</div>
+</div>
+</div>
+</font></span></div>
+</div>
+</blockquote>
+</div>
+<br>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</blockquote>
+</div>
+<br>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
+
+--_000_BN1PR07MB4393587087FBD91CCF0F327EEE30BN1PR07MB439namprd_--
